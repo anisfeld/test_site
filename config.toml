@@ -1,0 +1,10 @@
+relativeURLs = true
+title = "Lei Ma"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "PhD Student, Boston University"
+    logo = "raoProfilePic2.jpg"
